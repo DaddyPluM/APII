@@ -1,0 +1,163 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Yemi\\Documents\\GitHub\\HSpotASPapi\\End_0201\\HPlusSport\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{049BD8CC-BC92-4FDE-82C1-D8B302BAB736}|HPlusSport.API\\HPlusSport.API.csproj|c:\\users\\yemi\\documents\\github\\hspotaspapi\\end_0201\\hplussport\\hplussport.api\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{049BD8CC-BC92-4FDE-82C1-D8B302BAB736}|HPlusSport.API\\HPlusSport.API.csproj|solutionrelative:hplussport.api\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{049BD8CC-BC92-4FDE-82C1-D8B302BAB736}|HPlusSport.API\\HPlusSport.API.csproj|c:\\users\\yemi\\documents\\github\\hspotaspapi\\end_0201\\hplussport\\hplussport.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{049BD8CC-BC92-4FDE-82C1-D8B302BAB736}|HPlusSport.API\\HPlusSport.API.csproj|solutionrelative:hplussport.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{049BD8CC-BC92-4FDE-82C1-D8B302BAB736}|HPlusSport.API\\HPlusSport.API.csproj|c:\\users\\yemi\\documents\\github\\hspotaspapi\\end_0201\\hplussport\\hplussport.api\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{049BD8CC-BC92-4FDE-82C1-D8B302BAB736}|HPlusSport.API\\HPlusSport.API.csproj|solutionrelative:hplussport.api\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{049BD8CC-BC92-4FDE-82C1-D8B302BAB736}|HPlusSport.API\\HPlusSport.API.csproj|c:\\users\\yemi\\documents\\github\\hspotaspapi\\end_0201\\hplussport\\hplussport.api\\models\\modelbuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{049BD8CC-BC92-4FDE-82C1-D8B302BAB736}|HPlusSport.API\\HPlusSport.API.csproj|solutionrelative:hplussport.api\\models\\modelbuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{049BD8CC-BC92-4FDE-82C1-D8B302BAB736}|HPlusSport.API\\HPlusSport.API.csproj|c:\\users\\yemi\\documents\\github\\hspotaspapi\\end_0201\\hplussport\\hplussport.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{049BD8CC-BC92-4FDE-82C1-D8B302BAB736}|HPlusSport.API\\HPlusSport.API.csproj|solutionrelative:hplussport.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{049BD8CC-BC92-4FDE-82C1-D8B302BAB736}|HPlusSport.API\\HPlusSport.API.csproj|c:\\users\\yemi\\documents\\github\\hspotaspapi\\end_0201\\hplussport\\hplussport.api\\models\\shopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{049BD8CC-BC92-4FDE-82C1-D8B302BAB736}|HPlusSport.API\\HPlusSport.API.csproj|solutionrelative:hplussport.api\\models\\shopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{049BD8CC-BC92-4FDE-82C1-D8B302BAB736}|HPlusSport.API\\HPlusSport.API.csproj|c:\\users\\yemi\\documents\\github\\hspotaspapi\\end_0201\\hplussport\\hplussport.api\\models\\seeddata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{049BD8CC-BC92-4FDE-82C1-D8B302BAB736}|HPlusSport.API\\HPlusSport.API.csproj|solutionrelative:hplussport.api\\models\\seeddata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{049BD8CC-BC92-4FDE-82C1-D8B302BAB736}|HPlusSport.API\\HPlusSport.API.csproj|c:\\users\\yemi\\documents\\github\\hspotaspapi\\end_0201\\hplussport\\hplussport.api\\models\\modelbuilderextensions - copy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{049BD8CC-BC92-4FDE-82C1-D8B302BAB736}|HPlusSport.API\\HPlusSport.API.csproj|solutionrelative:hplussport.api\\models\\modelbuilderextensions - copy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SeedData.json",
+              "DocumentMoniker": "C:\\Users\\Yemi\\Documents\\GitHub\\HSpotASPapi\\End_0201\\HPlusSport\\HPlusSport.API\\Models\\SeedData.json",
+              "RelativeDocumentMoniker": "HPlusSport.API\\Models\\SeedData.json",
+              "ToolTip": "C:\\Users\\Yemi\\Documents\\GitHub\\HSpotASPapi\\End_0201\\HPlusSport\\HPlusSport.API\\Models\\SeedData.json",
+              "RelativeToolTip": "HPlusSport.API\\Models\\SeedData.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-02T08:02:53.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Yemi\\Documents\\GitHub\\HSpotASPapi\\End_0201\\HPlusSport\\HPlusSport.API\\Program.cs",
+              "RelativeDocumentMoniker": "HPlusSport.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Yemi\\Documents\\GitHub\\HSpotASPapi\\End_0201\\HPlusSport\\HPlusSport.API\\Program.cs",
+              "RelativeToolTip": "HPlusSport.API\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T19:53:15.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ModelBuilderExtensions - Copy.cs",
+              "DocumentMoniker": "C:\\Users\\Yemi\\Documents\\GitHub\\HSpotASPapi\\End_0201\\HPlusSport\\HPlusSport.API\\Models\\ModelBuilderExtensions - Copy.cs",
+              "RelativeDocumentMoniker": "HPlusSport.API\\Models\\ModelBuilderExtensions - Copy.cs",
+              "ToolTip": "C:\\Users\\Yemi\\Documents\\GitHub\\HSpotASPapi\\End_0201\\HPlusSport\\HPlusSport.API\\Models\\ModelBuilderExtensions - Copy.cs",
+              "RelativeToolTip": "HPlusSport.API\\Models\\ModelBuilderExtensions - Copy.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T22:04:36.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ModelBuilderExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Yemi\\Documents\\GitHub\\HSpotASPapi\\End_0201\\HPlusSport\\HPlusSport.API\\Models\\ModelBuilderExtensions.cs",
+              "RelativeDocumentMoniker": "HPlusSport.API\\Models\\ModelBuilderExtensions.cs",
+              "ToolTip": "C:\\Users\\Yemi\\Documents\\GitHub\\HSpotASPapi\\End_0201\\HPlusSport\\HPlusSport.API\\Models\\ModelBuilderExtensions.cs",
+              "RelativeToolTip": "HPlusSport.API\\Models\\ModelBuilderExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T21:11:48.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ShopContext.cs",
+              "DocumentMoniker": "C:\\Users\\Yemi\\Documents\\GitHub\\HSpotASPapi\\End_0201\\HPlusSport\\HPlusSport.API\\Models\\ShopContext.cs",
+              "RelativeDocumentMoniker": "HPlusSport.API\\Models\\ShopContext.cs",
+              "ToolTip": "C:\\Users\\Yemi\\Documents\\GitHub\\HSpotASPapi\\End_0201\\HPlusSport\\HPlusSport.API\\Models\\ShopContext.cs",
+              "RelativeToolTip": "HPlusSport.API\\Models\\ShopContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T20:09:35.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Yemi\\Documents\\GitHub\\HSpotASPapi\\End_0201\\HPlusSport\\HPlusSport.API\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "HPlusSport.API\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Yemi\\Documents\\GitHub\\HSpotASPapi\\End_0201\\HPlusSport\\HPlusSport.API\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "HPlusSport.API\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T18:14:02.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Yemi\\Documents\\GitHub\\HSpotASPapi\\End_0201\\HPlusSport\\HPlusSport.API\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "HPlusSport.API\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Yemi\\Documents\\GitHub\\HSpotASPapi\\End_0201\\HPlusSport\\HPlusSport.API\\Models\\Category.cs",
+              "RelativeToolTip": "HPlusSport.API\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T20:48:03.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Yemi\\Documents\\GitHub\\HSpotASPapi\\End_0201\\HPlusSport\\HPlusSport.API\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "HPlusSport.API\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Yemi\\Documents\\GitHub\\HSpotASPapi\\End_0201\\HPlusSport\\HPlusSport.API\\Models\\Product.cs",
+              "RelativeToolTip": "HPlusSport.API\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T20:44:25.404Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

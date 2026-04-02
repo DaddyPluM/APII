@@ -1,0 +1,85 @@
+body {
+    background-color: #e4e2e2;
+}
+
+
+* {  
+  color: #3d3d3d;
+  text-shadow: 1px 1px 0 #ffffff, 2px 2px 2px #d3d3d3;
+}
+
+.card {
+  border: 1px solid #ddd;
+  border-radius: 25px;
+  background-color: #ffffff; /* Changed from background: #f9f9f9 */
+  text-align: center;
+  transition: transform 0.2s ease-out, box-shadow 0.2s ease-out, border 0.3s, border-radius 0.3s;
+}
+
+.card:hover {
+  /* transform: translateY(-10%); */
+  box-shadow: 0 0 8px 12px rgba(0, 0, 0, 0);
+  border: 1px solid #2a2a2a;
+  border-radius: 50px;
+}
+
+#products {
+  display: grid;
+  gap: 5px;
+  grid-template-columns: repeat(auto-fill, minmax(600px, 1fr));
+}
+
+#input {
+  text-align: center;
+}
+
+input {
+  border: 1px solid #ddd;
+  text-align: center;
+  width: 12%;
+  height: 40px;
+  margin: 5px;
+  border-radius: 5px;
+  background-color: #cfcfcf;
+  font-size: 150%;
+  transition: box-shadow 0.1s ease-in,  border 0.3s,  border-radius 0.3s;
+}
+
+input:hover {
+  box-shadow: 0 0 8px 8px rgba(255, 255, 255, 0.15);
+  border: 1px solid #2a2a2a;
+  border-radius: 10px;
+
+}
+
+button {
+  border: 1px solid #dddddd;
+  font-size: 100%;
+  border-radius: 5px;
+  transition: box-shadow 0.1s ease-in,  border 0.3s,  border-radius 0.3s;
+  background-color: #cfcfcf;
+}
+
+select {
+  border: 1px solid #dddddd;
+  font-size: 200%;
+  border-radius: 5px;
+  transition: box-shadow 0.1s ease-in,  border 0.3s,  border-radius 0.3s;
+  background-color: #cfcfcf;
+  margin: 5px;
+  text-align: center;
+
+}
+
+select:hover {
+  box-shadow: 0 0 8px 8px rgba(255, 255, 255, 0.15);
+  border: 1px solid #2a2a2a;
+  border-radius: 10px;
+}
+
+button:hover {
+  box-shadow: 0 0 8px 8px rgba(255, 255, 255, 0.15);
+    border: 1px solid #2a2a2a;
+  border-radius: 10px;
+
+}   
